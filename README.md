@@ -90,8 +90,8 @@ heroi2.atacar(); // Saída: O guerreiro atacou usando espada.
 
 ## 📂 Estrutura do Repositório
 
-* `src/:` Código fonte do jogo.
+* `index.js:` Código fonte do jogo.
 
-* `assets/:` Imagens e recursos extras.
+* `src/assets/:` Imagens e recursos extras.
 
 * `README.md:` Arquivo com todas as informações do projeto.
