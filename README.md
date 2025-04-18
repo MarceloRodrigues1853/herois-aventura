@@ -18,7 +18,16 @@ Neste jogo, você vai:
 
 E muito mais! 📜
 
+## 🎨 Visual
+
+### ⚡ Inspiração Épica
+![Herói Épico](./src/assets/heroi-epico.jpg)
+
+*Este é o visual inspirado no mundo dos heróis de aventura! 🦸‍♂️⚔️*
+
 ---
+
+Pronto para explorar e criar os heróis mais incríveis do universo!
 
 ## 🛠️ **Tecnologias Utilizadas**
 
