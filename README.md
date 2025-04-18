@@ -11,10 +11,10 @@ Este projeto foi desenvolvido como parte do desafio da [DIO](https://www.dio.me/
 Neste jogo, você vai:
 - Criar heróis incríveis com **nome**, **idade** e **tipo**.
 - Dar vida aos seus heróis com o método **atacar**, que exibe mensagens épicas como:
-  - Mago: "O mago atacou usando magia."
-  - Guerreiro: "O guerreiro atacou usando espada."
-  - Monge: "O monge atacou usando artes marciais."
-  - Ninja: "O ninja atacou usando shuriken."
+  - **Mago**: "O mago atacou usando **magia**."
+  - **Guerreiro**: "O guerreiro atacou usando **espada**."
+  - **Monge**: "O monge atacou usando **artes marciais**."
+  - **Ninja**: "O ninja atacou usando **shuriken**."
 
 E muito mais! 📜
 
@@ -38,8 +38,6 @@ Pronto para explorar e criar os heróis mais incríveis do universo!
 ---
 
 ## ✨ **Exemplo de Código**
-
-Aqui vai um gostinho do que você pode criar:
 ```javascript
 // Definição da classe Heroi
 class Heroi {
